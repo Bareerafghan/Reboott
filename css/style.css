@@ -1,0 +1,23 @@
+.out
+{
+	width: 1200px;
+	height: 1600px;
+	background-color: pink;
+	margin: auto;
+}
+.in
+{
+	width: 80%;
+	height: 99.98%;
+	background-color:yellow;
+	margin: auto;
+}
+.menuelist li
+{
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 10px;
+	font-size:22px;
+	word-spacing: 50px;
+}
+
